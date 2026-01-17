@@ -115,9 +115,4 @@ This project demonstrates how Aadhaar data can be transformed from static report
 
 ---
 
-If you want, next we can:
-
-* Refine your **submission PDF structure**
-* Write a **jury-style problem statement**
-* Improve **chart captions & storytelling**
-* Or audit your notebooks for insight quality
+**Contributors:** [@Dr-Venom29](https://github.com/Dr-Venom29) • [@anirudhbhoga](https://github.com/ANIRUDH-7600)
