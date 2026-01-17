@@ -4,13 +4,13 @@
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 This project analyzes UIDAI datasets (as of **December 31, 2025**) to move beyond basic reporting and uncover the underlying societal mechanics of India's digital identity infrastructure. The goal is to generate **actionable insights** for resource optimization, service delivery planning, and infrastructure scaling.
 
 ---
 
-## 🛠️ Technical Methodology
+##  Technical Methodology
 
 *All datasets were sourced from UIDAI’s official open data portal and are aggregated and anonymized.*
 
@@ -52,9 +52,9 @@ Regions were classified based on Aadhaar usage patterns:
 
 ---
 
-## 📊 Key Analytical Insights
+##  Key Analytical Insights
 
-### 🏢 Urban Transactional Hubs
+###  Urban Transactional Hubs
 
 **Pune, Thane, and Nashik** recorded the highest Aadhaar activity.
 
@@ -63,7 +63,7 @@ Regions were classified based on Aadhaar usage patterns:
 
 ---
 
-### 🚀 Predictive Velocity Indicators
+###  Predictive Velocity Indicators
 
 A **System Velocity Metric** was developed using month-over-month update trends.
 
@@ -72,7 +72,7 @@ A **System Velocity Metric** was developed using month-over-month update trends.
 
 ---
 
-### 📍 Migration & Churn Signals
+###  Migration & Churn Signals
 
 Using the **Update-to-Enrolment Ratio**, migration-prone districts were identified.
 
@@ -80,7 +80,7 @@ High address update districts such as **Kurnool** and **Murshidabad** act as dig
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 * `01_multi_file_merge.ipynb` → Master dataset creation
 * `02_anomaly_detection.ipynb` → Outlier & migration analysis
@@ -89,7 +89,7 @@ High address update districts such as **Kurnool** and **Murshidabad** act as dig
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Initialize Environment
 
@@ -104,7 +104,7 @@ Run notebooks **01 → 04** sequentially to regenerate all outputs and figures.
 
 ---
 
-## 🏁 Outcome
+##  Outcome
 
 This project demonstrates how Aadhaar data can be transformed from static reporting into **strategic intelligence** for:
 
